@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/FxiDUsaaIAAMoUV?format=jpg&name=small" align="right">
+<img src="https://pbs.twimg.com/media/FxiDUsaaIAAMoUV?format=jpg&name=small" width="200" align="right">
 
 <h1 align="center">
 <p align="center">ASEAN BTE Docs</p>
